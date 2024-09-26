@@ -23,7 +23,9 @@ line-height: 1.75rem; /* 28px */
         transform: translateX(-50%) translateY(-50%);
         font-size: 18px;
         h1{
-            font-weight: 400;
+            font-size: 1.875rem; /* 30px */
+line-height: 2.25rem; 
+    font-weight: 800;
             color: white;
             margin: 0px;
             text-align: center;
@@ -33,6 +35,9 @@ line-height: 1.75rem; /* 28px */
             margin: 0px;
             text-align: center;
             margin-top: 10px;
+            font-size: 1.25rem; /* 20px */
+line-height: 1.75rem; /* 28px */
+       font-weight: 500;
         }
     }
     .plane{
