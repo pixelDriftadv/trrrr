@@ -4,14 +4,11 @@ import Image from 'next/image';
 import { useRef } from 'react';
 import gsap from 'gsap';
 import {
-    floating1, 
-    floating2, 
+  floating2, 
     floating3, 
     floating4, 
     floating5, 
-    floating6, 
     floating7, 
-    floating8
 } from '../data'
 
 export default function Home() {
@@ -59,11 +56,7 @@ export default function Home() {
   return (
     <main onMouseMove={(e) => {manageMouseMove(e)}} className={styles.main}>
       <div ref={plane1} className={styles.plane}>
-          <Image 
-            src={floating1}
-            alt='image'
-            width={300}
-          />
+        
            <Image 
             src={floating2}
             alt='image'
@@ -81,16 +74,8 @@ export default function Home() {
             alt='image'
             width={250}
           />
-           <Image 
-            src={floating6}
-            alt='image'
-            width={200}
-          />
-          <Image 
-            src={floating8}
-            alt='image'
-            width={225}
-          />
+           
+          
       </div>
       <div ref={plane3} className={styles.plane}>
           <Image 
