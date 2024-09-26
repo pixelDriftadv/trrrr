@@ -90,8 +90,8 @@ export default function Home() {
           />
       </div>
       <div className={styles.title}>
-        <h1 className="text-3xl font-extrabold">Blocked</h1>
-        <p className="text-xl font-medium opacity-90">by a <span className="opacity-70"><s>Team</s> </span> Family</p>
+        <h1 className={styles.txt}>Blocked</h1>
+        <p className={styles.txt2}>by a <span className="styles.txt3"><s>Team</s> </span> Family</p>
       </div>
     </main>
   )
