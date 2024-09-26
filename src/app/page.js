@@ -9,7 +9,7 @@ import {
     floating4, 
     floating5, 
     floating7, 
-} from '../data'
+} from '../data' 
 
 export default function Home() {
 
