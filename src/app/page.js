@@ -105,8 +105,8 @@ export default function Home() {
           />
       </div>
       <div className={styles.title}>
-        <h1>Floating Images Gallery</h1>
-        <p>Next.js and GSAP</p>
+        <h1 className="text-3xl font-extrabold">Blocked</h1>
+        <p className="text-xl font-medium opacity-90">by a <span className="opacity-70"><s>Team</s> </span> Family</p>
       </div>
     </main>
   )
