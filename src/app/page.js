@@ -91,7 +91,7 @@ export default function Home() {
       </div>
       <div className={styles.title}>
         <h1 className={styles.txt}>Blocked</h1>
-        <p className={styles.txt2}>by a <span className="styles.txt3"><s>Team</s> </span> Family</p>
+        <p className={styles.txt2}>Security: Pallavi </p>
       </div>
     </main>
   )
