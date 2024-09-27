@@ -93,7 +93,7 @@ export default function Home() {
         <h1 className={styles.txt}>Blocked</h1>
         
   <p className={styles.txt2}>{"(⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡"}</p>
-     <h2 className={styles.txt}>Security: Abhyudaya & Pallavi </h2>
+     <h2 className={styles.txt}>Abhyudaya & Pallavi </h2>
               </div>
     </main>
   )
