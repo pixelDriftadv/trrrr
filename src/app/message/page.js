@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export default function Home() {
   return (
-    <main className="flex bg-black min-h-screen flex-col items-center justify-between py-24 px-8">
+    <main className="flex text-white bg-black min-h-screen flex-col items-center justify-between py-24 px-8">
    <h1 className="text-xl font-light">{"I don't have idea who you are, neither I want to know, but still, here's something he got for you"}</h1>
    <h1 className="text-xl font-light">You better head on to <br/>
      {"https://farhanahmad.vercel.app/"} <br/>
