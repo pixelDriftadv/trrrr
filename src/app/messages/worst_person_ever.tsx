@@ -11,7 +11,7 @@ export default function Home() {
 https://farhanahmad.vercel.app/ <br/>
 https://itzsahil.vercel.app/ <br/>
 https://sahadathussain.vercel.app/ <br/>
-https://paradoxmahamal.vercel.app/ <br/>
+https://paradoxmahakal.vercel.app/ <br/>
 https://asifzayn.vercel.app/ <br/>
 the heck you doing in my WebApp, stalking me you stranger? <br/>
 also, Pallavi, heres a yt playlist check it out ~ <br/>
