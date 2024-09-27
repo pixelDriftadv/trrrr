@@ -92,8 +92,8 @@ export default function Home() {
       <div className={styles.title}>
         <h1 className={styles.txt}>Blocked</h1>
         
-  <p className={styles.txt2}>{"btw touch the names to make 'em move (⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡"}</p>
-     <h2 className={styles.txt}>Security: Pallavi </h2>
+  <p className={styles.txt2}>{"(⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡"}</p>
+     <h2 className={styles.txt}>Security: Abhyudaya & Pallavi </h2>
               </div>
     </main>
   )
