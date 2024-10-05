@@ -5,6 +5,8 @@ export default function Home() {
   return (
     <main className="flex text-white bg-black min-h-screen flex-col items-center justify-between py-24 px-8">
    <h1 className="text-xs font-light">
+
+    agr tum harami, randi, madarchod, randi ki aulad, bsdk, bkl, chutiye, bhosdiwali abhi bhi mereko stalk karrhi hai na toh yeh jaalo <u>Pallavi ke AI bot hai Gemini Advanced based</u> teri tarah harami nahi hu kisi aur ladki se baat karne laag jaau mann bhar gya ek se toh, harami saali, abhi mera haal dekh ke accha lagg rha hoga na, thode din, mahine ya saal ruk tera isse bhi battar haal hoga<br/>
     
     sacch mein abb apne aap se hi gussa aata itna faltu inssan k liye itna bekar ka efforts daal rha tha aakhir mein time bhi mera hi pass hua aur yeh harami toh kabhi puchne bhi nahi aayegi main zinda bhi hua ya nahi rha, iss chutiye ke liye toh aab koi aur aa hi gya hoga <br/>
     parr sahi baat yeh nahi hai ki iss kamini ne mera dimaag kharab diya hai, abb kabhi kabhi lagta hai accha banke kya hi karlunga aakhir mein inn jaiso aur jyadatar log ko toh yahi faltu kism ke ladke hi pasand joh saale ladkiyon ko sirf use karne ka nazar se dekhte hai, jinko ghr pe girls ka respect kabhi sikhaya nahi gya, aur mereko jaha takk lagta hai in harami girls ko toh chorhne ke baad bhi inko sharam nahi aati hogi, saali vhir koi aur ldke dekh lete honge unka zindagi barbaad karne ke liye<br/>
