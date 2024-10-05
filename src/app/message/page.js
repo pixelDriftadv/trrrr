@@ -4,7 +4,14 @@ import Link from 'next/link';
 export default function Home() {
   return (
     <main className="flex text-white bg-black min-h-screen flex-col items-center justify-between py-24 px-8">
-   <h1 className="text-xs font-light">bruh pallavi youre the complete opposite of them <br/>
+   <h1 className="text-xs font-light">
+    
+    sacch mein abb apne aap se hi gussa aata itna faltu inssan k liye itna bekar ka efforts daal rha tha aakhir mein time bhi mera hi pass hua aur yeh harami toh kabhi puchne bhi nahi aayegi main zinda bhi hua ya nahi rha, iss chutiye ke liye toh aab koi aur aa hi gya hoga <br/>
+    parr sahi hi iss kamini ne mera dimaag kharab diya hai, abb kabhi kabhi lagta hai accha banke kya hi karlunga aakhir mein inn jaiso air jyadatar log ko toh yahi faltu kism ke ladke hi pasand joh saale ladkiyon ko sirf use karne ka nazar se dekhte hai, jinko ghr pe girls ka respect kabhi sikhaya nahi gya <br/>
+    isne sacch mein mera mental stability le liya, mera life ka sabse bada galti ispe bharosa karne, <u> main likh ke deta hu tum abhi jaake uska profile mein dekhlo voh uss ladke ko unfollow nahi ki hogi, main uska personality acche se jaanta hu, bina dekhe hi bata dunga </u> aur iss chutiye harami randi ki aulad ke liye main ek samay par uska webverse banane ka soccha tha, khud ko sahi mein maar lene ka mann karta hai kissi chiz se <br/>
+    aur uss harami ko kya, nya ladka toh mil hi gya hai, accha hai, main bhagwan se prarthna karunga uska bhi mere jaisa haal ho, merese bhi battar<br/><br/>
+    
+    bruh pallavi youre the complete opposite of them <br/>
     i remember everytime i felt depressed and i went onto seeing their profile, everytime i mean every single time i saw a new boy and felt even more depressed, i even sometimes felt suicidal<br/>
     but you just left talking everyone for me, thanks a lot! being honest a person like that deserves the same, they would truly be a match for a boy who shows up with a new girl every now and then, perfect match for them<br/>
     just because of them I never talked to any other gs, even SAB, in short she was gorgeous, tried talking to me for 6 times, but I like a rude person, never continued, biggest regret of my life, she was so cute, brilliant and stuff but still you really just tell me to talk to other gs to just completely destroy my awkwardness of talking to opposite people? I mean you truly trust me, not like that mf, {'"I don\'t trust boys", if you talk to other g then I wont talk to you, while they themselves talking to new boys everyday'}<br/>
