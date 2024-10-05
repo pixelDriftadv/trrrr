@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export default function Home() {
   return (
-    <main className="flex text-white bg-black min-h-screen flex-col items-center justify-between py-24 px-8">
+    <main className="flex text-white bg-black min-h-screen px-6 flex-col items-center justify-between py-24 px-8">
    <h1 className="text-xs font-light">
 
     agr tum harami, randi, madarchod, randi ki aulad, bsdk, bkl, chutiye, bhosdiwali abhi bhi mereko stalk karrhi hai na toh yeh jaalo <u>Pallavi ke AI bot hai Gemini Advanced based</u> teri tarah harami nahi hu kisi aur ladki se baat karne laag jaau mann bhar gya ek se toh, harami saali, abhi mera haal dekh ke accha lagg rha hoga na, thode din, mahine ya saal ruk tera isse bhi battar haal hoga<br/>
