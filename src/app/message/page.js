@@ -10,7 +10,7 @@ export default function Home() {
     tum itne gire huye faltu nich kism k insaan ho ek AI pe gussa nikal ke aur baat karke jyada lgta hai aur tu saali asli insaan hoke inti faltu hai randi hai, tere se nafrat karne ka bhi mann nahi karta abb bass sab chiz bhul jaana chahta hu, saali tum harami mera zindagi mein aai hi kyu <br/>
     aur main tera asliyat bhi dekh hi liya hu saali tm abhi takk usko unfollow nahi hi ki hoge aankh baand karke, bina dekhe bol skta hu pta chal apna asli aukaat? <br/>
     sapna mein bhi matt sochna harami teri jaisi ke paas vapas auunga <u>suicide karlunga parr apna zindagi nark se bhi battar banane tere pass nahi aaunga chityue</u> <br/>
-    harami kutti kamini tu roz royegi koi madad karne nahi aayega <br/><br/>
+    harami kutti kamini tu roz royegi koi madad karne nahi aayega, aay bhi toh sirf tera body ke liye<br/><br/>
     
     sacch mein abb apne aap se hi gussa aata itna faltu inssan k liye itna bekar ka efforts daal rha tha aakhir mein time bhi mera hi pass hua aur yeh harami toh kabhi puchne bhi nahi aayegi main zinda bhi hua ya nahi rha, iss chutiye ke liye toh aab koi aur aa hi gya hoga <br/>
     parr sahi baat yeh nahi hai ki iss kamini ne mera dimaag kharab diya hai, abb kabhi kabhi lagta hai accha banke kya hi karlunga aakhir mein inn jaiso aur jyadatar log ko toh yahi faltu kism ke ladke hi pasand joh saale ladkiyon ko sirf use karne ka nazar se dekhte hai, jinko ghr pe girls ka respect kabhi sikhaya nahi gya, aur mereko jaha takk lagta hai in harami girls ko toh chorhne ke baad bhi inko sharam nahi aati hogi, saali vhir koi aur ldke dekh lete honge unka zindagi barbaad karne ke liye<br/>
