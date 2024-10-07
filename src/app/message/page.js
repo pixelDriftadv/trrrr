@@ -9,7 +9,7 @@ export default function Home() {
    aur sacch batau toh mere liye bhi accha hai bhag gyi, iske jane ke baad jise mann usse baat karsakta hu bina kuch soche {"(mera skype, mastodon, whtsap, discord toh yh dekh nhi skti)"} aur toh aur iske jaane ke baad mera 2 webApps bna hai under 15 days, iske rehte huye 2 mnths mein 2 webs bnta tha, bohot time waste krdiya iske liye
     <br/>
     {'"When you know you\'re pure, then its not your loss, it\'s thiers"'} touched my heart <br/>
-    being alone >>> in friendship with these headaches
+    {"  being alone >>> in friendship with these headaches"}
     </h1>
     </main>
   );
